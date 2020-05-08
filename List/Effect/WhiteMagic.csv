@@ -1,0 +1,208 @@
+10/9,Cure
+10/10,Cure II
+10/11,Cure III
+10/12,Cure IV
+10/13,Cure V
+10/14,Cure VI
+10/15,Curaga
+10/16,Curaga II
+10/17,Curaga III
+10/18,Curaga IV
+10/19,Curaga V
+10/20,Raise
+13/36,Raise (Effect)
+10/21,Raise II
+92/108,Raise II (Effect)
+10/22,Poisona
+10/23,Paralyna
+10/24,Blindna
+10/25,Silena
+10/26,Stona
+10/27,Viruna
+10/28,Cursna
+10/29,Holy
+10/30,Holy II
+10/31,Dia
+10/32,Dia II
+10/33,Dia III
+10/34,Dia IV
+10/35,Dia V
+10/36,Banish
+10/37,Banish II
+10/38,Banish III
+10/39,Banish IV
+10/40,Banish V
+10/41,Diaga
+10/42,Diaga II
+10/43,Diaga III
+10/44,Diaga IV
+10/45,Diaga V
+10/46,Banishga
+10/47,Banishga II
+10/48,Banishga III
+10/49,Banishga IV
+10/50,Banishga V
+10/51,Protect
+10/52,Protect II
+10/53,Protect III
+10/54,Protect IV
+10/55,Protect V
+10/56,Shell
+10/57,Shell II
+10/58,Shell III
+10/59,Shell IV
+10/60,Shell V
+10/61,Blink
+10/62,Stoneskin
+10/63,Aquaveil
+10/64,Slow
+10/65,Haste
+10/66,Paralyze
+10/67,Silence
+10/68,Barfire
+10/69,Barblizzard
+10/70,Baraero
+10/71,Barstone
+10/72,Barthunder
+10/73,Barwater
+10/74,Barfira
+10/75,Barblizzara
+10/76,Baraera
+10/77,Barstonra
+10/78,Barthundra
+10/79,Barwatera
+10/80,Barsleep
+10/81,Barpoison
+10/82,Barparalyze
+10/83,Barblind
+10/84,Barsilence
+10/85,Barpetrify
+10/86,Barvirus
+10/87,Barsleepra
+10/88,Barpoisonra
+10/89,Barparalyzra
+10/90,Barblindra
+10/91,Barsilencera
+10/92,Barpetra
+10/93,Barvira
+10/94,Barsleep II
+10/95,Barpoison II
+10/96,Barparalyze II
+10/97,Barblind II
+10/98,Barsilence II
+10/99,Barpetrify II
+10/100,Barvirus II
+10/101,Barsleepra II
+10/102,Barpoisonra II
+10/103,Barparalyzra II
+10/104,Barblindra II
+10/105,Barsilencera II
+10/106,Barpetra II
+10/107,Barvira II
+10/108,Enfire
+10/109,Enblizzard
+10/110,Enaero
+10/111,Enstone
+10/112,Enthunder
+10/113,Enwater
+10/114,Phalanx
+10/115,Phalanx II
+10/116,Regen
+10/117,Refresh
+10/118,Wall
+10/119,Might
+10/120,Faith
+10/121,Reflect
+10/122,Barignis
+10/123,Baraer
+10/124,Barterra
+10/125,Baraqua
+10/126,Barignisra
+10/127,Baraera
+11/0,Barterrara
+11/1,Baraquara
+11/2,Teleport/Recall
+11/3,Libra
+11/4,Toad
+11/5,Protectra
+11/6,Protectra II
+11/7,Protectra III
+11/8,Protectra IV
+11/9,Protectra V
+11/10,Shellra
+11/11,Shellra II
+11/12,Shellra III
+11/13,Shellra IV
+11/14,Shellra V
+11/15,Reraise
+11/16,Erase
+13/23,Invisible
+13/24,Sneak
+13/25,Deodorize
+13/26,Invisible II
+13/27,Sneak II
+13/28,Deodorize II
+92/104,Reraise II
+92/105,Reraise III
+92/106,Raise III
+13/37,Raise III (Effect)
+95/76,Paralyga
+95/77,Slowga
+95/78,Hastega
+95/79,Silencega
+119/82,Regen II
+119/83,Regen III
+119/84,Regen IV
+128/93,Flash
+168/1,Paralyze II
+168/2,Slow II
+195/104,Firestorm
+195/105,Rainstorm
+195/106,Thunderstorm
+195/107,Sandstorm
+195/108,Windstorm
+195/109,Hailstorm
+195/110,Aurorastorm
+195/111,Voidstorm
+196/88,Repose
+197/103,Enstone II
+197/104,Enwater II
+197/105,Enaero II
+197/106,Enfire II
+197/107,Enblizzard II
+197/108,Enthunder II
+197/125,Reprisal
+221/8,Auspice
+221/61,Cura
+221/62,Sacrifice
+221/63,Esuna
+246/124,Baramnesia
+246/125,Baramnesra
+255/21,Enlight
+255/23,Refresh II
+255/24,Addle
+255/25,Cura II
+255/36,Boost-VIT
+255/37,Boost-MND
+255/38,Gain-VIT
+255/39,Gain-MND
+255/42,Animus Augeo
+255/43,Animus Minuo
+259/6,Boost-AGI
+259/7,Boost-CHR
+259/8,Gain-AGI
+259/9,Gain-CHR
+261/39,Adloquium
+263/35,Boost-STR
+263/36,Boost-INT
+263/37,Gain-STR
+263/38,Gain-INT
+263/39,Boost-DEX
+263/40,Gain-DEX
+263/45,care
+266/63,Temper
+266/64,Embrava
+268/24,Arise
+268/25,Arise (Effect)
+268/31,Cura III
+269/70,Regen V

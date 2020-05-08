@@ -1,0 +1,1634 @@
+0/0,syst
+10/8,miss
+12/9,Warp (Event)
+13/29,bind
+13/30,yam_
+13/31,yam_
+13/32,atc0
+13/33,efpr
+13/34,Level Down
+13/35,Level Up
+13/38,nasi
+13/39,Rabbit (Foot Kick)
+13/40,Rabbit (Dust Cloud)
+13/41,Rabbit (Whirl Claws)
+13/42,Sheep (Sheep Charge)
+13/43,Sheep (Rage)
+13/44,Sheep (Lamb Chop)
+13/45,shp_
+13/46,Sheep (Sheep Song)
+13/47,buf_
+13/48,buf_
+13/49,buf_
+13/50,buf_
+13/51,she_
+13/52,Tiger (Roar)
+13/53,Tiger (Razor Fang)
+13/55,Tiger (Claw Cyclone)
+13/56,dumm
+13/57,Dhalmel (Sonic Wave)
+13/58,ki_o
+13/59,ki_b
+13/60,ki_s
+13/61,Dhalmel (Cold Stare)
+13/62,Dhalmel (Whistle)
+13/63,Dhalmel (Berserk)
+13/64,Dhalmel (Healing Breeze)
+13/65,Opo-opo (Vicious Claw)
+13/66,Opo-opo (Stone Throw)
+13/67,Opo-opo (Spinning Claw)
+13/68,Opo-opo (Claw Storm)
+13/69,Opo-opo (Blank Gaze)
+13/70,Opo-opo (Eye Scratch)
+13/71,Opo-opo (Magic Fruit)
+13/72,Mandragora (Head Butt)
+13/73,Mandragora (Dream Flower)
+13/74,Mandragora (Wild Oats)
+13/75,Mandragora (Photosynthesis)
+13/76,Mandragora (Leaf Dagger)
+13/77,Mandragora (Scream)
+13/78,Funguar (Frog Kick)
+13/79,Funguar (Spore)
+13/80,Funguar (Queasyshroom)
+13/81,Funguar (Numbshroom)
+13/82,Funguar (Shakeshroom)
+13/83,Funguar (Silence Gas)
+13/84,Funguar (Dark Spore)
+13/85,Morbol (Impale)
+13/86,Morbol (Vampiric Root)
+13/87,Morbol (Bad Breath)
+13/88,Morbol (Sweet Breath)
+13/89,Sabotender (Needleshot)
+13/90,Sabotender (1000 Needles)
+13/91,Sabotender (Photosynthesis)
+13/92,Treant (Drill Branch)
+13/93,Treant (Pinecone Bomb)
+13/94,Treant (Leafstorm)
+13/95,Treant (Entangle)
+13/96,Bee (Sharp Sting)
+13/97,Bee (Pollen)
+13/98,Bee (Final Sting)
+13/99,bee_
+13/100,Beetle (Power Attack)
+13/101,Beetle (Hi-Freq Field)
+13/102,Beetle (Rhino Attack)
+13/103,Beetle (Rhino Guard)
+13/104,kb_m
+13/105,Beetle (Spoil)
+13/106,Crawler (Sticky Thread)
+13/107,Crawler (Poison Breath)
+13/108,Crawler (Cocoon)
+13/109,Scorpion (Numbing Breath)
+13/110,Scorpion (Cold Breath)
+13/111,Scorpion (Mandible Bite)
+13/112,Scorpion (Poison Sting)
+13/113,muka
+13/114,Scorpion (Death Scissors)
+13/115,Scorpion (Wild Rage)
+13/116,Scorpion (Earth Pounder)
+13/117,Scorpion (Sharp Strike)
+13/118,Scorpion (Numbing Breath)
+13/119,Scorpion (Cold Breath)
+13/120,Scorpion (Mandible Bite)
+13/121,Scorpion (Poison Sting)
+13/122,muka
+13/123,Scorpion (Death Scissors)
+13/124,Scorpion (Wild Rage)
+13/125,Scorpion (Earth Pounder)
+13/126,Scorpion (Sharp Strike)
+13/127,Lizard (Blockhead)
+14/0,Lizard (Fireball)
+14/1,Lizard (Tail Blow)
+14/2,Lizard (Brain Crush)
+14/3,Lizard (Baleful Gaze)
+14/4,Lizard (Plauge Breath)
+14/5,Lizard (Infrasonics)
+14/6,Lizard (Secretion)
+14/7,Raptor (Ripper Fang)
+14/8,wf_b
+14/9,Raptor (Foul Breath)
+14/10,Raptor (Frost Breath)
+14/11,Raptor (Thunderbolt)
+14/12,Raptor (Chomp Rush)
+14/13,Raptor (Scythe Tail)
+14/14,wf_w
+14/15,Bats (Sonic Boom)
+14/16,Bat (Ultrasonics)
+14/17,Bat (Blood Drain)
+14/18,Bats (Jet Stream)
+14/19,Greater Bird (Scratch)
+14/20,Greater Bird (Triple Attack)
+14/21,Greater Bird (Gliding Spike)
+14/22,Greater Bird (Feather Barrier)
+14/23,Greater Bird (Stormwind)
+14/24,Cockatrice (Hammer Beak)
+14/25,Cockatrice (Poison Pick)
+14/26,Cockatrice (Sound Vacuum)
+14/27,cok_
+14/28,Cockatrice (Sound Blast)
+14/29,Cockatrice (Baleful Gaze)
+14/30,Leech (Suction)
+14/31,Leech (Acid Mist)
+14/32,Leech (Sand Breath)
+14/33,Leech (Drainkiss)
+14/34,Leech (Regeneration)
+14/35,Leech (TP Drainkiss)
+14/36,Leech (MP Drainkiss)
+14/37,Leech (Brain Drain)
+14/38,Worm (Full-Force Blow)
+14/39,Worm (Gastric Bomb)
+14/40,Worm (Sandspin)
+14/41,Worm (Tremors)
+14/42,Worm (MP Absorption)
+14/43,Worm (Sound Vacuum)
+14/44,mimz
+14/45,Slime (Fluid Spread)
+14/46,Slime (Fluid Toss)
+14/47,Slime (Digest)
+14/48,Hecteyes (Death Ray)
+14/49,Hecteyes (Hex Eye)
+14/50,Crab (Bubble Shower)
+14/51,Crab (Bubble Curtain)
+14/52,Crab (Big Scissors)
+14/53,Crab (Metallic Body)
+14/54,kani
+14/55,Crab (Scissor Guard)
+14/56,Pugil (Intimidate)
+14/57,Pugil (Aqua Ball)
+14/58,Pugil (Splash Breath)
+14/59,Pugil (Screwdriver)
+14/60,Pugil (Water Wall)
+14/61,Pugil (Water Shield)
+14/62,fish
+14/63,Sea Monk (Tentacle)
+14/64,Sea Monk (Ink Jet)
+14/65,Sea Monk (Hard Membrane)
+14/66,Sea Monk (Cross Attack)
+14/67,Sea Monk (Regeneration)
+14/68,Sea Monk (Maelstrom)
+14/69,Sea Monk (Whirlwind)
+14/70,Hound (Howling)
+14/71,Hound (Poison Breath)
+14/72,Hound (Rot Gas)
+14/73,Hound (Dirty Claw)
+14/74,Hound (Shadow Claw)
+14/75,Hound (Methane Breath)
+14/76,Ghost (Grave Reel)
+14/77,Ghost (Ectosmash)
+14/78,Ghost (Terror Touch)
+14/79,Ghost (Fear Touch)
+14/80,Ghost (Curse)
+14/81,Ghost (Dark Sphere)
+14/82,Skeleton (Hell Slash)
+14/83,Skeleton (Horror Cloud)
+14/84,Skeleton (Black Cloud)
+14/85,Skeleton (Blood Saber)
+14/86,Doomed (Whip Tongue)
+14/87,Doomed (Acid Breath)
+14/88,Doomed (Stinking Gas)
+14/89,Doomed (Undead Mold)
+14/90,Doomed (Call of the Grave)
+14/91,Doomed (Abyss Blast)
+14/92,Fomor (Netherspikes)
+14/93,Fomor (Carnal Nightmare)
+14/94,Fomor (Aegis Schism)
+14/95,Fomor (Dancing Chains)
+14/96,Fomor (Barbed Crescent)
+14/97,Bomb (Self-Destruct)
+14/98,Bomb (Berserk)
+14/99,Evil Weapon (Smite of Rage)
+14/100,Magic Pot (Double Ray)
+14/101,Magic Pot (Spinning Attack)
+14/102,Magic Pot (Spectral Barrier)
+14/103,Magic Pot (Mysterious Light)
+14/104,Magic Pot (Mind Drain)
+14/105,Magic Pot (Battery Charge)
+14/106,Doll (Kartstrahl)
+14/107,Doll (Panzerschreck)
+14/108,Doll (Panzerfaust)
+14/109,Doll (Berserk)
+14/110,Doll (Blitzstrahl)
+14/111,Doll (Typhoon)
+14/112,Doll (Gravity Field)
+14/113,gol_
+14/114,Doll (Meltdown)
+14/115,Ahriman (Blindeye)
+14/116,Ahriman (Eyes On Me)
+14/117,Ahriman (Hypnosis)
+14/118,Ahriman (Mind Break)
+14/119,Ahriman (Binding Wave)
+14/120,Ahriman (Airy Shield)
+14/121,ah_c
+14/122,Ahriman (Magic Barrier)
+14/123,Ahriman (Level 5 Petrify)
+14/124,Demon (Soul Drain)
+14/125,Demon (Hecatomb Wave)
+14/126,dem_
+14/127,Demon (Demonic Howl)
+15/0,dem_
+15/1,dm_b
+15/2,Goobbue (Blow)
+15/3,Goobbue (Beatdown)
+15/4,Goobbue (Uppercut)
+15/5,gg_1
+15/6,Goobbue (Blank Gaze)
+15/7,Goobbue (Antiphase)
+15/8,Goblin (Goblin Rush)
+15/9,Goblin (Bomb Toss)
+15/10,Goblin (Bomb Toss drop)
+15/11,Orc (Aerial Wheel)
+15/12,Orc (Shoulder Attack)
+15/13,Orc (Jump)
+15/14,Orc (Arm Block)
+15/15,Orc (Battle Dance)
+15/16,Orc (Howl)
+15/17,Quadav (Ore Toss)
+15/18,Quadav (Head Butt)
+15/19,Quadav (Shell Bash)
+15/20,Quadav (Shell Guard)
+15/21,km_d
+15/22,Yagudo (Feather Storm)
+15/23,Yagudo (Double Kick)
+15/24,Yagudo (Parry)
+15/25,Yagudo (Sweep)
+15/26,Bird (Helldive)
+15/27,Bird (Wing Cutter)
+15/28,Behemoth (Wild Horn)
+15/29,Behemoth (Thunderbolt)
+15/30,Behemoth (Kick Out)
+15/31,Behemoth (Shockwave)
+15/32,Behemoth (Flame Armor)
+15/33,Behemoth (Howl)
+15/34,Behemoth (Meteor)
+15/35,Warmachine (Burst)
+15/36,Warmachine (Fire Arrow)
+15/37,Warmachine (Firebomb)
+15/38,Warmachine (Blastbomb)
+15/39,Warmachine (Fountain)
+15/40,Dragon (Flame Breath)
+15/41,Dragon (Poison Breath)
+15/42,Dragon (Wind Breath)
+15/43,Dragon (Body Slam)
+15/44,Dragon (Heavy Stomp)
+15/45,Dragon (Chaos Blade)
+15/46,Dragon (Petro Eyes)
+15/47,Dragon (Voidsong)
+15/48,Dragon (Thornsong)
+15/49,Dragon (Lodesong)
+15/50,Coeurl (Blaster)
+15/51,Coeurl (Chaotic Eye)
+15/52,Gigas (Catapult)
+15/53,Fly (Cursed Sphere)
+15/54,Fly (Venom)
+15/55,Gigas (Lightning Roar)
+15/56,Gigas (Ice Roar)
+15/57,Gigas (Impact Roar)
+15/58,Gigas (Grand Slam)
+15/59,Gigas (Power Attack)
+15/60,gig_
+15/61,yam_
+15/62,yam_
+15/63,yam_
+15/64,yam_
+15/65,yam_
+15/66,yam_
+15/67,Golem (Crystal Shield)
+15/68,Golem (Heavy Strike)
+15/69,Golem (Ice Break)
+15/70,Golem (Thunder Break)
+15/71,Golem (Crystal Rain)
+15/72,Golem (Crystal Weapon) [fire]
+15/73,Golem (Crystal Weapon) [earth]
+15/74,Golem (Crystal Weapon) [water]
+15/75,Golem (Crystal Weapon) [wind]
+15/76,Cardian (Bludgeon)
+15/77,Cardian (Deal Out)
+15/78,Sapling (Sprout Spin)
+15/79,Sapling (Slumber Powder)
+15/80,Sapling (Sprout Smack)
+15/81,2-hour effect (fire)
+15/82,2-hour effect (ice)
+15/83,2-hour effect (wind)
+15/84,2-hour effect (earth)
+15/85,2-hour effect (water)
+15/86,2-hour effect (light)
+15/87,2-hour effect (lightning)
+15/88,2-hour effect (dark)
+16/2,Barrage (arrow) [0 hits]
+16/3,Barrage (arrow) [1 hit]
+16/4,Barrage (arrow) [2 hits]
+16/5,Barrage (arrow) [3 hits]
+16/6,Barrage (arrow) [4 hits]
+16/7,Barrage (arrow) [5 hits]
+16/8,Barrage (arrow) [6 hits]
+16/9,Barrage (arrow) [7 hits]
+16/10,Barrage (arrow) [8 hits]
+16/11,Barrage (arrow) [9 hits]
+16/12,Barrage (arrow) [10 hits]
+16/13,Barrage (arrow) [11 hits]
+16/14,Barrage (arrow) [12 hits]
+16/15,Barrage (bolt) [0 hits]
+16/16,Barrage (bolt) [1 hit]
+16/17,Barrage (bolt) [2 hits]
+16/18,Barrage (bolt) [3 hits]
+16/19,Barrage (bolt) [4 hits]
+16/20,Barrage (bolt) [5 hits]
+16/21,Barrage (bolt) [6 hits]
+16/22,Barrage (bolt) [7 hits]
+16/23,Barrage (bolt) [8 hits]
+16/24,Barrage (bolt) [9 hits]
+16/25,Barrage (bolt) [10 hits]
+16/26,Barrage (bolt) [11 hits]
+16/27,Barrage (bolt) [12 hits]
+16/28,Barrage (bullet) [0 hits]
+16/29,Barrage (bullet) [1 hit]
+16/30,Barrage (bullet) [2 hits]
+16/31,Barrage (bullet) [3 hits]
+16/32,Barrage (bullet) [4 hits]
+16/33,Barrage (bullet) [5 hits]
+16/34,Barrage (bullet) [6 hits]
+16/35,Barrage (bullet) [7 hits]
+16/36,Barrage (bullet) [8 hits]
+16/37,Barrage (bullet) [9 hits]
+16/38,Barrage (bullet) [10 hits]
+16/39,Barrage (bullet) [11 hits]
+16/40,Barrage (bullet) [12 hits]
+16/75,Burning Circle warp in
+16/76,Burning Circle warp out
+16/77,kira
+16/78,isi1
+16/79,isi2
+16/80,isi3
+16/81,mbar
+16/82,onio
+16/83,gofu
+16/84,daig
+16/85,gate
+16/86,uran
+16/87,kaka
+16/88,arim
+16/89,mahi
+16/90,kika
+16/91,mogu
+16/92,sdra
+16/93,zaid
+16/94,mao1
+16/95,mao3
+16/96,kone
+16/97,mao2
+16/98,yam_
+16/99,yam_
+16/100,Job Change
+16/101-115,Bastok Rank
+16/116-17/2,Windurst Rank
+17/3-17,San d'Oria Rank
+62/84,evte
+62/92,evte
+62/113,ship
+62/114,ship
+62/115,ship
+62/116,ship
+62/117,ship
+62/119,ship
+62/120,ship
+62/121,ship
+62/122,ship
+62/123,ship
+62/124,ship
+62/125,ship
+62/126,ship
+62/127,ship
+74/107,m_ob
+74/109,m_ob
+75/8,m_ob
+75/9,m_ob
+75/10,m_ob
+75/11,m_ob
+75/12,m_ob
+75/47,m_fg
+75/57,m_fg
+75/62,m_fg
+92/107,Signet
+92/124,hota
+92/125,gohu
+92/126,hitb
+95/81,Evil Weapon (Whirl of Rage)
+95/83,hota
+95/84,ya01
+95/85,yao2
+95/86,ya03
+97/16,mim_
+97/113,Call Beast (summon)
+97/114,Call Beast (leave)
+97/115,suzu
+97/116,suzu
+97/117,suzu
+97/118,suzu
+97/119,suzu
+97/120,suzu
+97/121,drk_
+97/122,drk_
+97/123,drk_
+97/124,drk_
+97/125,drk_
+97/126,drk_
+97/127,Wyvern (Blizzard Breath)
+98/0,Wyvern (Thunder Breath)
+98/1,Wyvern (Radiant Breath)
+98/2,Wyvern (Chaos Breath)
+98/11,Carbuncle's Ruby
+98/12,Carbuncle's Ruby (orange)
+98/13,Carbuncle's Ruby (red)
+98/14,Carbuncle's Ruby (blue)
+98/15,Carbuncle's Ruby (indigo)
+98/16,Carbuncle's Ruby (violet)
+98/17,Carbuncle's Ruby (yellow)
+98/18,Carbuncle's Ruby (green)
+98/19,Carbuncle's Ruby (broken)
+98/20,wp03
+98/21,sibi
+98/22,k_wa
+98/23,azid
+98/24,apur
+98/25,moya
+98/26,siru
+118/90,Pet Wyvern (Healing Breath I)
+118/91,Pet Wyvern (Healing Breath II)
+118/92,Pet Wyvern (Healing Breath III)
+118/93,Pet Wyvern (Remove Poison)
+118/94,Pet Wyvern (Remove Blind)
+118/95,Pet Wyvern (Remove Paralysis)
+118/96,Pet Wyvern (Flame Breath)
+118/97,Pet Wyvern (Frost Breath)
+118/98,Pet Wyvern (Gust Breath)
+118/99,Pet Wyvern (Sand Breath)
+118/100,Pet Wyvern (Lightning Breath)
+118/101,Pet Wyvern (Hydro Breath)
+118/118,petm
+119/86,Spider (Sickle Slash)
+119/87,Spider (Acid Spray)
+119/88,Spider (Spider Web)
+122/87,Ark Angel HM (Cross Reaver)
+122/88,Ark Angel MR (Havok Spiral)
+122/89,Ark Angel EV (Dominion Slash)
+122/90,Ark Angel TT (Amon Drive)
+122/91,Ark Angel GK (Dragonfall)
+122/92,Ark Angel EV (Shield Bash)
+122/93,Ark Angel TT (warp in)
+122/94,Ark Angel HM (Circle Blade)
+122/95,Ark Angel HM (Swift Blade)
+122/96,Ark Angel EV (Spirits Within)
+122/97,Ark Angel EV (Vorpal Blade)
+122/98,Ark Angel MR (Rampage)
+122/99,Ark Angel MR (Calamity)
+122/100,Ark Angel TT (Spinning Scythe)
+122/101,Ark Angel TT (Guillotine)
+122/102,Ark Angel GK (Tachi: Yukikaze)
+122/103,Ark Angel GK (Tachi: Gekko)
+122/104,Ark Angel GK (Tachi: Kasha)
+122/105,rdr_
+122/106,rdr_
+122/107,rdr_
+122/108,rdr_
+122/109,rdr_
+122/110,rdr_
+122/111,rdr_
+122/112,rdr_
+122/113,rdr_
+122/114,rdr_
+122/115,kmo2
+122/116,kmo2
+122/117,cgr_
+122/118,cel_
+122/119,chu_
+122/120,ctr_
+122/121,cmi_
+122/122,Ark Angel GK (dead)
+122/123,Ark Angel EV (dead)
+122/124,Ark Angel HM (dead)
+122/125,Ark Angel TT (dead)
+122/126,Ark Angel MR (dead)
+122/127,hum_
+123/0,garp
+123/2,hen_
+123/3,mj_t
+123/4,mj_t
+123/5,baku
+123/6,Ark Angel TT (warp out)
+123/113,el1_
+123/114,el1_
+123/115,eld1
+123/116,el1_
+125/71,el1_
+128/12,try_
+128/13,try_
+128/14,zai_
+128/15,zai_
+128/16,for_
+128/17,Ajido-Marujido (warp in)
+128/18,Ajido-Marujido (warp out)
+128/19,Trion (Red Lotus Blade)
+128/20,Trion (Flat Blade)
+128/21,Trion (Savage Blade)
+128/22,Volker (Red Lotus Blade)
+128/23,Volker (Spirits Within)
+128/24,Volker (Vorpal Blade)
+128/25,Zeid (Power Slash)
+128/26,Zeid (Freezebite)
+128/27,Zeid (Ground Strike)
+128/28,bit_
+128/29,eld_
+128/30,eld_
+128/31,zeid
+128/32,Eald'narche (warp in)
+128/33,Eald'narche (warp out)
+128/34,eld_
+128/35,eld_
+128/36,eld_
+128/37,eld_
+128/38,eld_
+128/39,eld_
+128/40,eld_
+128/41,eld_
+128/42,eld_
+128/43,eld_
+128/44,eld_
+128/45,eld_
+128/50,eld_
+128/51,zai_
+128/52,ork_
+128/53,kafu
+128/54,sw_p
+128/55,ran_
+128/56,ran_
+128/57,hit_
+128/58,miko
+128/59,btal
+128/60,kaka
+128/61,miko
+128/62,miko
+128/63,aji_
+128/64,shld
+128/65,kaka
+128/66,mj_t
+128/67,obak
+128/68,apu_
+128/69,mj_t
+128/70,mj_t
+128/71,bay_
+128/72,fenn
+128/73,fenn
+128/74,ap_n
+128/75,ap_h
+128/76,eld_
+128/77,obak
+130/64,m_ma
+130/65,m_hy
+130/66,m_ka
+130/67,m_mp
+130/68,m_re
+130/69,m_to
+130/70,m_ki
+130/71,m_bl
+130/72,m_ma
+130/73,m_pe
+130/74,m_si
+130/75,m_sn
+130/76,m_me
+130/77,m_mi
+130/78,m_pe
+130/79,m_ze
+130/80,xt_w
+130/81,xt_w
+130/82,xt_f
+130/83,m_co
+130/84,m_ta
+130/85,m_ta
+130/86,m_ba
+130/87,m_sp
+130/88,m_ku
+130/89,m_so
+130/90,m_as
+130/91,cry_
+130/92,m_ba
+130/93,ryus
+130/94,f_ip
+131/9,sb_m
+135/103,ork_
+135/104,yag_
+135/105,km_h
+135/106,gob_
+135/107,gob_
+135/108,gob_
+135/109,gob_
+135/110,gob_
+135/111,gob_
+135/112,gob_
+135/113,gob_
+135/114,gob_
+135/115,gob_
+135/116,gob_
+135/117,gob_
+135/118,gob_
+135/119,gob_
+135/120,gob_
+135/121,gob_
+135/122,gob_
+135/123,gob_
+135/124,sork
+135/125,sto_
+135/126,syag
+135/127,sty_
+136/0,sgob
+136/1,stg_
+136/2,skam
+136/3,stkl
+136/4,stks
+136/5,yag_
+136/6,km_e
+136/7,sk_h
+136/8,sk_m
+136/53,"Laissez aler!"
+136/54,"Victoire!"
+136/55,"Echec..."
+136/56,evy_
+136/57,evg_
+136/58,evk_
+136/59,dm_j
+136/60,dm_4
+136/61,dm_4
+136/62,dem_
+136/63,ym2_
+136/64,ym2_
+136/65,ym2_
+136/66,ym2_
+136/67,ym2_
+136/68,ym2_
+136/69,ym2_
+136/70,ym2_
+136/71,ym2_
+136/72,bm_k
+136/73,bm_m
+136/74,bt3_
+136/75,bt3_
+136/76,val_
+136/77,val_
+136/78,val_
+136/80,rkef
+139/65,evte
+142/63,dra_
+142/64,ah_w
+142/65,ah_w
+142/71,evy_
+142/72,eg1i
+142/73,eg2i
+142/74,eg2i
+142/75,eg3i
+142/76,eg3i
+142/77,eg3i
+142/78,evg_
+142/79,ev2_
+142/80,ev2_
+142/81,ev2_
+142/82,ev2_
+142/83,ev2_
+142/84,ev2_
+142/85,ev2_
+142/86,ev2_
+142/87,ev2_
+142/88,ev2_
+142/89,ev2_
+142/90,ev2_
+142/91,ev2_
+142/92,ev2_
+142/103,ninj
+142/104,hm_s
+142/105,hm_t
+142/106,fs_a
+142/107,bom_
+142/108,bom_
+142/109,evw_
+142/110,evw_
+142/111,evw_
+142/112,qua_
+142/113,qua_
+142/114,qua_
+142/115,qua_
+142/116,gur_
+142/117,gur_
+142/118,kyo 
+142/119,mat_
+142/120,mat_
+142/121,mat_
+142/122,mat_
+142/123,mat_
+142/124,mnt_
+142/125,mnt_
+142/126,ada_
+142/127,adm_
+143/0,adm_
+143/1,adm_
+143/2,adm_
+143/3,adm_
+145/71,evte
+146/112,idr_
+146/113,idr_
+146/114,idr_
+146/115,tdr_
+146/116,tdr_
+146/117,tdr_
+146/118,ydr_
+146/119,ylz_
+146/120,Tonberry (Curse)
+146/121,Tonberry (Sigh)
+146/122,Tonberry (Light of Penance)
+146/123,Tonberry (Lateral Slash)
+146/124,Tonberry (Vertical Slash)
+146/125,Tonberry (Throat Stab)
+146/126,Tonberry (Everyone's Grudge)
+146/127,Tonberry (Everyone's Rancor)
+147/3,Rabbit (Snow Cloud)
+147/116,bit_
+147/117,bit_
+147/120,CoP Title (Japanese)
+147/121,CoP Title (English)
+148/66,fs_j
+148/67,rdr_
+148/79,sr_n
+148/80,sr_n
+148/81,sr_n
+148/82,hm_f
+148/83,cr_b
+148/84,mm_k
+148/85,mm_g
+148/86,mm_g
+148/87,mm_g
+148/88,tig_
+148/89,be_r
+148/90,ga_o
+148/91,ko_s
+148/101,ric_
+148/102,ah_e
+149/94,ric_
+149/95,kra_
+149/102,bt3_
+149/103,bt3_
+151/31,si_a
+151/32,si_j
+151/33,si_t
+151/34,si_s
+151/35,si_n
+151/36,si_n
+151/72,c_at
+151/73,hika
+151/74,hk_a
+151/75,fc_r
+151/76,fc_a
+151/77,fc_s
+151/78,fc_a
+151/79,fc_j
+151/80,fc_s
+151/81,am_e
+151/82,am_e
+151/83,am_e
+151/86,am_b
+151/118,st_t
+151/119,st_h
+151/120,st_k
+151/121,st_j
+151/122,st_h
+151/123,st_t
+151/124,st_e
+151/125,st_r
+152/22,st_t
+152/23,st_5
+152/24,st_b
+152/25,st_y
+152/26,sc_d
+152/27,sc_p
+152/28,sc_s
+152/29,sc_e
+152/30,sc_g
+152/31,sc_s
+152/32,sc_c
+152/33,sc_a
+152/34,she_
+152/35,she_
+152/37,ten_
+152/38,ten_
+152/39,ten_
+152/41,ten_
+152/42,ws01
+152/43,ws05
+152/44,ws07
+152/45,ws08
+152/46,ws09
+152/47,yoit
+152/58,she_
+152/59,she_
+152/60,she_
+152/83,gob_
+152/84,gob_
+152/85,gob_
+152/86,gob_
+152/87,gob_
+152/88,gob_
+152/89,gob_
+152/90,gob_
+152/91,gob_
+152/92,gob_
+152/93,st_j
+152/94,sel_
+152/95,sel_
+152/96,kekk
+152/97,u_uz
+152/127,mou_
+153/0,mou_
+153/1,mou_
+153/2,tok_
+153/3,tok_
+153/4,tok_
+153/5,tok_
+153/6,tok_
+153/7,gm_y
+153/44,gob_
+154/41,dk_h
+154/42,dk_s
+155/19,sel_
+155/20,sel_
+155/21,kekk
+155/22,u_uz
+155/23,gm_y
+155/24,gob_
+155/25,pro_
+155/26,pro_
+155/27,b_ta
+155/28,ev_b
+155/29,ev_b
+155/30,pro_
+155/36,pro_
+155/37,pro_
+155/38,pro_
+155/39,pro_
+155/40,pro_
+155/41,so_h
+155/42,so_b
+155/43,so_d
+155/44,so_s
+155/45,so_f
+155/46,so_j
+155/47,shn_
+155/48,shn_
+155/49,shn_
+155/50,dc_c
+155/51,dc_k
+155/52,dc_t
+155/53,dc_m
+155/54,to_i
+155/55,to_c
+155/56,to_i
+155/57,to_e
+155/58,to_d
+155/59,to_k
+155/60,to_k
+155/89,roef
+155/90,roef
+155/91,roef
+155/92,roef
+155/93,roef
+155/94,roef
+155/95,roef
+155/123,al_w
+155/124,al_d
+155/125,al_d
+155/126,al_k
+155/127,omg_
+156/0,omg_
+156/1,omg_
+156/2,omg_
+156/3,omg_
+156/4,omg_
+156/5,pro_
+156/6,aj_a
+156/7,aj_b
+156/8,aj_d
+156/9,aj_p
+156/10,aj_s
+156/11,km2_
+156/12,km2_
+156/13,km2_
+156/14,km2_
+156/26,Prishe (Hundred Fists)
+156/27,Prishe (Benediction)
+156/30,pri_
+156/31,pri_
+156/47,sel_
+156/48,sel_
+156/49,sel_
+156/71,pro_
+156/72,pro_
+156/73,pro_
+156/79,pig_
+156/80,pig_
+156/81,pig_
+156/82,pig_
+156/83,pig_
+156/94,pro_
+156/95,pro_
+156/96,pro_
+156/97,pro_
+156/98,pro_
+156/99,pro_
+156/100,pro_
+156/101,pro_
+156/102,pro_
+156/111,p_uz
+156/112,pri_
+156/113,pri_
+156/114,nami
+156/115,e_me
+156/116,ep_m
+156/117,pri_
+156/118,pri_
+156/119,pri_
+156/122,sel_
+156/123,sel_
+156/124,pro_
+156/125,sel_
+156/126,pri_
+156/127,pro_
+157/0,yari
+157/1,pc_o
+157/2,pro_
+157/8,pr_n
+157/9,pr_n
+157/10,pr_n
+157/11,pr_n
+157/12,pro_
+157/13,pro_
+157/14,pro_
+157/15,pro_
+157/16,sel_
+157/17,pl_n
+157/18,pri_
+157/55,rdr_
+157/62,kmo_
+157/122,utg_
+157/124,1sh_
+157/125,msh_
+157/126,ssh_
+157/127,1sh_
+158/0,msh_
+158/1,ssh_
+158/2,1sh_
+158/3,msh_
+158/4,ssh_
+158/5,1sh_
+158/6,1sh_
+158/7,msh_
+158/8,ssh_
+158/73,omg_
+158/74,omg_
+158/75,omg_
+158/76,omg_
+158/77,omg_
+158/78,omg_
+158/79,omg_
+158/80,omg_
+159/33,ant_
+159/34,ant_
+159/35,ant_
+159/36,ant_
+159/37,ant_
+159/38,ant_
+159/39,ant_
+159/40,ant_
+159/42,bfn_
+159/43,bfn_
+159/44,bfn_
+159/45,bfn_
+159/46,bfe_
+159/47,bfn_
+159/48,bfn_
+159/49,bfn_
+159/50,bfn_
+159/53,mdi_
+159/54,mdi_
+159/55,mdi_
+159/56,mdi_
+159/57,mdi_
+159/58,hol_
+159/59,hol_
+159/73,izu_
+159/74,mirr
+159/75,hens
+159/76,dm_k
+159/77,hol_
+159/78,hol_
+159/79,mi_p
+159/80,mi_p
+159/106,gig_
+159/107,mbh_
+159/108,mbh_
+159/109,mbh_
+159/110,mbh_
+159/111,mbh_
+159/112,mbh_
+159/114,shd_
+159/115,bh_s
+159/116,mbh_
+159/117,mbh_
+159/118,mbh_
+159/119,mbh_
+159/120,mbh_
+159/121,mbh_
+159/122,mbh_
+159/123,yami
+159/124,oba_
+159/125,oba_
+159/126,oba_
+159/127,kmr_
+160/0,eld_
+160/1,sel_
+160/2,lion
+160/7,turi
+160/8,turi
+160/9,turi
+160/10,turi
+160/16,ryuu
+160/17,ryuu
+160/18,lion
+160/39,st_b
+160/44,m_ty
+160/45,m_ty
+160/46,m_ay
+160/47,pvp1
+160/52,ryuu
+160/53,lion
+160/54,m_ut
+160/127,"Lasset beginnen!"
+161/0,"Sieg!"
+161/1,"Niederlage..."
+161/4,bm3_
+161/5,bm3_
+161/6,bm3_
+161/7,bm3_
+161/8,bm3_
+161/9,bm3_
+161/10,bm3_
+161/11,bm3_
+161/12,bm3_
+161/13,kise
+161/16,car_
+161/17,car_
+161/18,yam_
+161/35,aj_s
+161/36,dno_
+161/37,fs_b
+161/38,fs_s
+161/39,pr_s
+161/40,m_ha
+161/41,mdi_
+161/42,mdi_
+162/33,bpu_
+162/34,bpu_
+162/35,bpu_
+162/36,bpu_
+162/37,bpu_
+162/38,bpu_
+162/39,bpu_
+164/63,at_b
+164/64,at_g
+164/65,at_b
+164/66,at_k
+164/67,at_p
+164/68,at_b
+164/69,at_b
+164/70,mabu
+164/71,at_m
+164/72,at_i
+164/73,at_k
+164/74,at_m
+164/75,at_l
+164/76,sibu
+164/77,pil_
+164/78,pil_
+164/79,pil_
+164/80,pil_
+164/81,pil_
+164/82,pil_
+165/38,cor_
+165/39,imp_
+165/40,imp_
+165/41,la_n
+165/42,fwy_
+165/43,fwy_
+165/44,ko_h
+165/45,tro_
+165/46,tro_
+165/47,me_n
+165/48,la_p
+165/49,me_p
+165/50,la_e
+165/51,me_e
+165/52,tro_
+165/104,yag_
+165/105,yag_
+165/106,yag_
+165/107,yag_
+166/95,dno_
+166/96,dno_
+166/97,dno_
+166/98,dno_
+166/99,dno_
+166/100,dno_
+166/101,hyd_
+166/102,hyd_
+166/103,hyd_
+166/104,hyd_
+166/105,hyd_
+166/106,lzm_
+166/110,hyd_
+166/111,elf_
+166/118,bsh_
+167/123,nomi
+168/14,ck_f
+168/15,ck_f
+168/16,ck_f
+168/17,ck_f
+168/18,dra_
+168/19,it_h
+168/20,e_in
+168/74,evte
+168/83,evte
+168/84,evte
+168/86,ang_
+168/87,alx_
+168/88,ao_t
+168/89,ax_v
+168/90,ob_d
+168/91,Sleeping
+168/113,hyd_
+168/114,hyd_
+169/2,lizk
+169/3,lizk
+169/4,lizk
+169/5,lizk
+169/6,lizk
+169/38,ma_g
+169/39,bl_f
+169/40,sh_w
+169/41,nioi
+169/47,mid_
+169/48,mid_
+169/49,mid_
+169/50,mid_
+169/51,mid_
+169/52,mid_
+169/53,mid_
+169/57,med_
+169/58,med_
+169/59,med_
+169/60,med_
+169/61,med_
+169/62,med_
+169/65,pri_
+169/66,pri_
+169/67,mos_
+169/68,mos_
+169/69,mos_
+169/70,mos_
+169/71,mos_
+169/72,mos_
+169/73,mos_
+169/77,genk
+169/84,oba_
+169/86,fune
+169/87,s_si
+169/88,bk_h
+169/89,sibu
+169/90,ob_d
+169/97,trok
+169/98,trok
+169/99,trok
+169/100,trok
+169/101,trok
+169/102,trok
+169/105,ao_h
+169/106,mid_
+170/15,toad
+170/16,toad
+170/17,toad
+170/18,toad
+170/19,toad
+170/20,toad
+170/21,den 
+170/22,cho_
+170/23,cho_
+170/26,atm_
+170/60,sasa
+170/61,sasa
+170/62,sasa
+170/96,auto
+170/97,gess
+171/9,gal_
+171/10,hum_
+171/11,em_k
+171/12,mjb_
+171/13,yag_
+171/14,cho_
+171/35,deji
+171/36,atm_
+172/62,n_bu
+172/63,chi_
+172/64,chi_
+172/65,chi_
+172/75,th1 
+172/76,th2 
+172/77,th3 
+172/78,th4 
+172/79,th5 
+172/80,ice 
+172/81,hi1 
+172/82,hi2 
+172/83,hi3 
+172/84,kyo 
+173/40,cim_
+173/41,cim_
+173/42,den 
+173/43,n_fi
+173/44,atm_
+173/45,atm_
+173/46,cim_
+173/47,ki_k
+173/54,mds_
+173/55,kks_
+173/56,mtn_
+173/57,bibi
+173/58,kak_
+173/90,i_si
+181/89-91,Chocobo Race
+181/92,Merit Point
+181/99,inp_
+181/101,odin
+181/108,trod
+181/109,trod
+181/110,trod
+181/111,trod
+181/124,la_p
+181/125,odin
+181/126,alex
+183/56,"Chocobo Races"
+183/58,"Chocobo-Rennen"
+183/59,"3... 2... 1... START"
+183/60,"GOAL"
+183/61,"Complete"
+183/65,dojy
+183/66,suij
+184/49,luz_
+184/50,Chocobo Race
+184/51,yag_
+184/70,inp_
+184/103,odn_
+184/104,odn_
+184/120,ric_
+184/121,ric_
+184/122,ric_
+184/123,ric_
+184/124,odn_
+184/125,odn_
+184/126,odn_
+185/2,odn_
+185/3,la_k
+185/5,Tauri (Triclip)
+185/6,Tauri (Back Swish)
+185/7,Tauri (Mow)
+185/8,Tauri (Frightful Roar)
+185/9,Tauri (Mortal Ray)
+185/10,Tauri (Unblessed Armor)
+185/20,odn_
+185/22,buka
+185/29,kr_h
+185/32,vmp_
+185/33,vmp_
+185/34,meik
+185/68,vmp_
+185/69,vmp_
+185/70,vmp_
+185/71,mei_
+185/72,vmp_
+185/73,mjn_
+185/74,mjn_
+185/75,mjn_
+185/76,mjn_
+185/77,mjn_
+185/120,odn_
+185/121,odn_
+186/30,mjn_
+186/31,luz_
+186/32,odn_
+186/38,frt_
+186/39,tenj
+186/40,enjy
+186/41,mjn_
+186/42,luz_
+186/43,alex
+186/44,ruzf
+186/45,aut_
+186/46,aut_
+186/47,nas_
+186/48,odn_
+186/49,odn_
+186/50,odn_
+186/64,"A l'attaque!"
+186/65,"Zum Angriff!"
+186/72,mon_
+186/73,btl_
+186/74,alex
+186/75,lzf_
+186/106,ship
+187/0,Alexander (Divine Spear)
+187/1,Alexander (Gospel of the Lost)
+187/8,Alexander (Perfect Defense)
+187/32,Alexander (Divine Judgment)
+187/42,Alexander (Void of Repentance)
+187/50,razf
+187/78,tr_h
+187/82,gob_
+187/83,gob_
+187/84,gob_
+187/85,gob_
+187/86,gob_
+187/87,gob_
+187/88,gob_
+187/89,gob_
+187/90,gob_
+187/91,gob_
+187/92,gob_
+187/93,alex
+187/94,alex
+188/12,gada
+188/18,odn_
+188/19,alex
+188/20,alex
+188/21,odn_
+188/29,rzf_
+188/30,nasy
+188/31,mri_
+188/32,sose
+188/33,alex
+188/34,nas_
+188/35,odn_
+188/36,sui_
+188/41,avz_
+188/42,od_v
+188/58,aras
+188/59,el_k
+188/60,mri_
+188/61,alex
+188/62,odn_
+188/63,alex
+188/64,odn_
+188/65,ef_k
+189/14,Djinn (????)
+189/15,Djinn (Berserk)
+189/16,Djinn (Penumbral Impact)
+189/17,Djinn (Dark Wave)
+189/18,Djinn (Nocturnal Combustion)
+189/40,drk2
+191/41,atms
+191/42,myc2
+195/95,Pixie (Zephyr Arrow)
+195/96,Pixie (Lethe Arrows)
+195/97,Pixie (Spring Breeze)
+195/98,Pixie (Summer Breeze)
+195/99,Pixie (Autumn Breeze)
+195/100,Pixie (Winter Breeze)
+195/101,Pixie (Cyclonic Turmoil)
+195/102,Pixie (Cyclonic Torrent)
+195/103,muk2
+195/120,tig2
+196/53,sign
+197/65-73;77;86-87,
+197/114,dra_
+197/115,dra_
+197/116,km_h
+197/117,km_d
+197/118,km2_
+197/119,km2_
+197/120,yag_
+197/121,yag_
+197/122,m_sp
+197/123,m_sp
+197/124,ak_m
+198/38,Cobraclaw Buchzvotch (Tornado Edge)
+198/39,
+198/40,
+198/41,
+198/42,
+198/43,
+198/105,
+198/106,
+199/36;74;97-109,
+200/70,
+200/119,
+200/120,
+200/121,
+200/122,
+200/123,
+200/124,
+200/127,
+201/0-10;56-74;79-102;107-108;111-114;117-118;120-127,
+202/0-10;12-15;17-25;30-38;42-43;49-68;79-93;99-108;114-127,
+203/0-23;28;31;34;37;45-74;111-120,
+204/3-6;14-16;20;38-40;47;51-61;78-83,
+207/12,
+207/13,
+207/14,
+207/15,
+207/16,
+207/17,
+207/18,
+207/19,
+207/20,
+207/21,
+207/22,
+207/23,
+207/24,
+207/25,
+207/26,
+209/115-124,
+211/9,Chocobo Race
+211/10,"Chocobo Races"
+211/11,"Course de chocobos"
+211/12,"Chocobo-Rennen"
+211/13,
+211/14,
+211/15,
+211/16,
+211/17,
+211/18,Ixion (????)
+211/19,Ixion (Lightning Spear)
+211/20,Ixion (Wrath of Zeus)
+211/21,Shooting mini-game
+211/26,
+211/27,
+211/28,Ixion (Rampant Stance)
+211/29,
+211/30,
+211/31,
+211/32,
+211/33,
+211/34,Ixion (Damsel Memento)
+211/35,Ixion (????)
+211/36,Ixion (????)
+211/37,Ixion (????)
+211/38,
+211/109,
+211/110,
+211/111,
+211/112,
+211/113,
+211/114,
+211/115,
+211/116,
+211/117,
+211/118,
+211/119,
+211/120,
+211/121,
+211/122,
+211/123,
+211/124,
+211/125,
+211/126,
+211/127,
+212/0-16;24-26,
+212/27,Shining Summer Samba
+212/28,Lovely Miracle Waltz
+212/29,Neo Crystal Jig
+212/30,Super Crusher Jig
+212/31-32;45-127,
+213/32;88-90;96-98,
+213/99,Tzee Xicu the Manifest (Vorticose Sands)
+214/5-8;10;55-56;60,
+215/17;104-105;109;124-126,
+216/0;86-90;125-127,
+217/15-16;23-24;29,
+218/123,
+219/53-55;92-102;105-108,
+220/39;45-46;84-87,
+221/43;125,
+222/0-1;12-16;21-23;25-26;29-30;32;35-41;88;120-122,
+222/124,Level Up (monster)
+222/125-127,
+223/0-3;39-42;56-59;67-74,
+223/82,Lilisette (Dancer's Fury)
+223/83,Lilisette (Whirling Edge)
+223/108,cat_
+223/109,ahrm
+223/110,Lilisette (Thorned Stance)
+223/111,Lilisette (Senseual Dance)
+223/112,
+223/113,
+223/115,
+223/116,
+224/21,
+224/24,Lady Lilith's throne
+224/27-32,
+224/34,Light skillchain
+224/35-36,
+224/37,Tachi: Kaiten
+224/53-55;63-83,
+225/6,
+225/7,
+225/8,Excenmille (Stag Cry)
+225/9,Excenmille (Stag's Charge)
+225/10,
+225/34,
+225/122,Ring
+225/123-127,
+226/37-38;51,
+230/30;91-102,
+231/48-51;65-66;69-76,
+234/113-127,
+235/0-2,
+238/39-45;48-58;60-73;75-79;84;92-94,
+239/15-32;36-37;50-53,
+239/54,Aquila (Altair Bullet)
+239/56;63;65;67;72;83-89,
+239/90,Haudrale (Savage Swordhand)
+239/92,Flowers
+239/93,Xarcabard Map
+239/94;96-99;101-103;105-106;108-115;117-121;123-126,
+240/1;104-105,
+241/74-77;90-91,
+241/95,Lehko Habhoka (Inspirit)
+241/96,Lehko Habhoka (Debonair Rush)
+241/97,Lehko Habhoka (Iridal Pierce)
+241/98,Lehko Habhoka (Lunar Revolution)
+241/99-110,
+243/107-114,
+245/38,
+245/40,Excenmille (Orcsbane)
+245/41,Excenmille (Gyre Slash)
+245/45-47,
+246/70,Red Weakness "!!"
+246/71,Yellow Weakness "!!"
+246/72,Blue Weakness "!!"
+246/73,
+246/74,Maxcimille (Great Divide)
+246/122,
+246/123,
+247/23,Robel-Akbel (Quietus Sphere)
+247/47-49,
+249/45;73-115;117-127,
+250/0-1;3-7;18-53;55-61;81-87,
+254/16-17;53-55;59;70-71;73;115-127,
+255/6-9;44-45,
+256/24,
+257/72,
+258/31-39;53-55;63-86;108,
+259/18-28;71-72,
+261/42-43;47-49;51-54,
+261/55,Lilith Ascendant (melee attack)
+261/58,
+261/59,Lilith Ascendant (Dark Flare)
+261/60,Lilith Ascendant (Dark Tornado)
+261/61,Lilith Ascendant (Dark Quake)
+261/62,Lilith Ascendant (Dark Burst)
+261/63,Lilith Ascendant (Dark Sun)
+261/64-65,
+261/101,Lilith Ascendant (Dark Freeze)
+261/102,Lilith Ascendant (Dark Flood)
+261/112-114;120-121,
+262/2,Lilith Ascendant (Dark Moon)
+262/17-20,
+262/21,Shinryu (Gyre Charge)
+262/31,
+262/32,Shinryu (Cosmic Breath)
+262/47,Shinryu (Proto Star)
+262/48,Shinryu (Supernova)
+262/51,
+262/54-60,Shinryu (melee attack)
+262/61,Shinryu (Cataclysmic Vortex)
+262/62,Shinryu (Mighty Guard)
+262/63,Shinryu (Atomic Ray)
+262/64-71,
+262/72,Shinryu (Dark Matter)
+262/73-77;79-83;85-91;94-96;98-100;102-104;108-109;113-114;118-127,
+263/112-118,
+264/6;8-13;17-18,
+265/12-14;17-19;21-24;35-99,
+266/70;111-113,
+266/121,White Weakness "!!"
+267/2-15;29;59-60;68-75;89-98;124,
+268/23;26-30;32-36;45-51,
+272/75;77;91-100;103-104;106-119,
+273/68-69,
+277/2-4;14-26;41-44,
+278/89-120,
+279/1-8;107-108;123-127,
+280/0-1,
+286/8-13;113-127,
+287/0-15,

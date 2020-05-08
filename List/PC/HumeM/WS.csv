@@ -1,0 +1,173 @@
+@Hand
+76/39, Combo
+76/40, Shoulder Tackle
+76/41, One Inch Punch
+76/42, BackHand Blow
+76/43, Raging Fists
+76/44, Spinning Attack
+76/45, Howling Fist
+100/20, Dragon Kick
+100/21, Asuran Fists
+139/74, Final Heaven
+
+@Dagger
+76/46, Wasp Sting
+76/47, Gust Slash
+76/48, Shadow Stitch
+76/49, Viper Bite
+76/50, Cyclone
+76/51, Energy Steal
+76/52, Energy Drain
+76/53, Dancing Edge
+100/22, Shark Bite
+100/23, Evisceration
+139/75, Mercy Strike
+
+@Sword
+76/30, Fast Blade
+76/31, Burning Blade
+76/32, Red Lotus Blade
+76/35, Flat Blade
+76/34, Shining Blade
+76/33, Seraph Blade
+76/36, Circle Blade
+76/37, Spirit Within
+76/38, Vorpal Blade
+100/18, Swift Blade
+100/19, Savage Blade
+139/73, Knights of the Round
+
+@Club
+76/68, Shining Strike
+76/69, Seraph Strike
+76/70, Brain Shaker
+76/71, Star Light
+76/72, Moon Light
+76/73, Skull Breaker
+76/74, True Strike
+76/75, Judgement
+100/28, Hexa Strike
+100/29, Black Halo
+139/78, Randgirth
+
+@Axe
+76/54, Raging Axe
+76/55, Smash Axe
+76/56, Gale Axe
+76/57, Avalanche Axe
+76/58, Spinning Axe
+76/59, Rampage
+76/60, Calamity
+100/24, Mistral Axe
+100/25, Decimation
+139/76, Onslaught
+
+@Katana
+100/38, Blade: Rin
+100/39, Blade: Retsu
+100/40, Blade: Teki
+100/41, Blade: To
+100/42, Blade: Chi
+100/43, Blade: Ei
+100/44, Blade: Jin
+100/45, Blade: Ten
+100/46, Blade: Ku
+139/83, Blade: Metsu
+
+@G.Sword
+76/83, Hard Slash
+76/84, Power Slash
+76/85, Frost Bite
+76/86, Freeze Bite
+76/87, Shockwave
+76/88, Crescent Moon
+76/89, Sickle Moon
+100/32, Spinning Slash
+100/33, Ground Strike
+139/80, Scourge
+
+@Staff
+76/97, Heavy Swing
+76/98, Rock Crusher
+76/99, Earth Crusher
+76/100, Star Burst
+76/101, Sun Burst
+76/102, Shell Crusher
+76/103, Full Swing
+100/36, Spirit Taker
+100/37, Retribution
+139/82, Gate of Tartarus
+
+@G.Axe
+76/76, Shield Break
+76/77, Iron Tempest
+76/78, Sturmwind
+76/79, Armor Break
+76/80, Keen Edge
+76/81, Weapon Break
+76/82, Raging Crash
+100/30, Full Break
+100/31, Steel Cyclone
+139/79, Metatron Torment
+
+@G.Katana
+100/47, Tachi: Enpi
+100/48, Tachi: Hobaku
+100/49, Tachi: Goten
+100/50, Tachi: Kagero
+100/51, Tachi: Koki
+100/52, Tachi: Jinpu
+100/53, Tachi: Yukikaze
+100/54, Tachi: Gekko
+100/55, Tachi: Hanaguruma
+139/84, Tachi: Kaiten
+152/41, Amatsu: Tsukikage [NPC]
+152/40, Cosmic Elucidation [NPC]
+
+@Scythe
+76/61, Slice
+76/62, Dark Harvest
+76/63, Shadow of Death
+76/64, Nightmare Scythe
+76/65, Spinning Scythe
+76/66, Vorpal Scythe
+76/67, Guillotine
+100/26, Cross Reaper
+100/27, Spiral Hell
+139/77, Catastrophe
+
+@Polearm
+76/90, Double Thrust
+76/91, Thunder Thrust
+76/92, Raiden Thrust
+76/93, Leg Sweep
+76/94, Penta Thrust
+76/95, Vorpal Thrust
+76/96, Skewer
+100/34, Wheeling Thrust
+100/35, Impulse Drive
+139/81, Geirskogul
+
+@Bow
+76/113, Flaming Arrow
+76/114, Piercing Arrow
+76/115, Dulling Arrow
+76/117, Sidewinder
+100/71, Blast Arrow
+100/72, Arching Arrow
+100/73, Empyreal Arrow
+139/85, Namas Arrow
+
+
+@Marksman
+76/118, Hot Shot
+76/119, Split Shot
+76/120, Sniper Shot
+76/122, Slug Shot
+100/74, Blast Shot
+100/75, Heavy Shot
+100/76, Detonator
+139/86, Coronach
+
+@Dragoon
+100/56-70, Jump

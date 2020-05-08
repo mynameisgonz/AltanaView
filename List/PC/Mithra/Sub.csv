@@ -1,0 +1,495 @@
+@None
+55/27,None
+
+@Shield
+55/28,Unknown Shield 1
+55/29,Unknown Shield 2
+55/30,Ritter Shield
+55/31,Unknown Shield 3
+55/32,Kite Shield
+55/33,Heater Shield
+55/34,Royal Knight Army Shield
+55/35,Temple Knight Army Shield
+55/36,Royal Guard's Shield
+55/37,Darksteel Shield
+55/38,Shell Shield
+55/39,Tatami Shield
+55/40,Scutum
+55/41,Tower Shield
+55/42,Faerie Shield
+55/43,Maple Shield
+55/44,Lauan Shield
+55/45,Oak Shield
+55/46,Elm Shield
+55/47,Mahogany Shield
+55/48,Aspis
+55/49,Gold Buckler
+55/50,Targe
+55/51,Buckler
+55/52,Darksteel Buckler
+55/53,Frost Shield
+122/81,General's Shield
+122/82,Koenig Shield
+130/62,Acheron Shield
+155/87,Aegis
+274/34,Aegis (99)
+155/101,Unknown Shield 4
+165/4,Tariqah
+165/5,Januwiyah
+215/120,Moogle Shield 
+215/121,Nomad Shield
+245/96,Seigneur Shield
+261/99,Ochain
+274/35,Ochain (99)
+278/127,Adamas
+284/12,Mandraguard
+288/98,Janus Guard
+306/43,Glinting Shield
+316/69,Morbol shield
+307/37,Camaraderie shield
+307/38,Slime shield
+314/51,Mundus Shield
+314/52,She-Slime Shield
+314/53,Metal Slime Shield
+314/54,Hatchling Shield
+320/9,Svalinn
+320/100,Cait Sith Guard
+332/18,Nibiru shield
+332/19,Blurred shield
+341/40,Culminus
+345/29,Srivatsa
+354/73-80,Crafting Shield
+355/45,Diamond Buckler
+355/100,Kam'lanaut's Shield
+361/47,Dullahan Shield
+361/48,Cassie's Shield
+362/7,Mundus Shield
+
+@Hand
+55/54,Avengers
+55/55,Darksteel Katars
+55/56,Katars
+55/57,Jamadhars
+55/58,Exocets
+55/59,Darksteel Claws
+55/60,Claws
+55/61,Mythril Claws
+55/62,Cermet Claws
+55/63,Cesti
+55/64,Lizard Cesti
+55/65,Poison Cesti
+55/66,Darksteel Knuckles
+55/67,Bronze Knuckles
+55/68,Brass Knuckles
+55/69,Metal Knuckles
+55/70,Mythril Knuckles
+55/71,Koenigs Knuckles
+55/72,Diamond Knuckles
+55/73,Manoples
+55/74,Gold Patas
+55/75,Patas
+55/76,Bone Patas
+55/77,Cat Baghnakhs
+55/78,Brass Baghnakhs
+55/79,Baghnakhs
+55/80,Rune Baghnakhs
+142/54,Spharai
+274/38,Spharai (99)
+149/91,Adargas
+166/93,Sainti
+170/12,Darksteel Sainti
+171/119,Adaman Sainti
+172/57,Black Adargas
+173/79,Hades Sainti
+206/16,Glanzfaust
+274/37,Glanzfaust (99)
+206/17,Kenkonken
+280/13,Kenkonken (99)
+211/2,Shenlong's Baghnakhs
+242/29,Verethragna
+274/36,Verethragna (99)
+245/99,Afflictors
+269/41,Girru
+281/25,Unknown H2H
+293/90,Tlalpoloani
+304/71,Forefront Cesti
+314/102,Worm Feelers
+319/28,Ohrmazd
+328/72,Blurred claws
+328/73,Nibiru sainti
+341/14,Denouements
+343/1,Godhands
+352/111,Aphelion Knuckles
+355/79,Premium Mogti
+356/17,Sharanga (su5)
+359/24,Kaja Knuckles
+360/31,Karambit
+
+@Dagger
+115/119,Valiant Knife
+115/120,Darksteel Knife
+115/121,Bronze Knife
+115/122,Knife
+115/123,Mythril Knife
+115/124,Cermet Knife
+115/125,Misericorde
+115/126,Bronze Dagger
+115/127,Brass Dagger
+116/0,Dagger
+116/1,Mythril Dagger
+116/2,Darksteel Baselard
+116/3,Baselard
+116/4,Mythril Baselard
+116/5,Darksteel Kukri
+116/6,Kukri
+116/7,Mythril Kukri
+116/8,Cermet Kukri
+116/9,Heart Snatcher
+116/10,Parrying Knife
+116/11,Combat Caster's Dagger
+116/12,Kris
+116/13,Triple Dagger
+116/14,Bone Knife
+116/107,Kard
+142/48,Mandau
+276/92,Mandau (99)
+142/52,Raetic Kris
+148/6,Harpe
+164/40,Jambiya
+172/56,Supernal Knife
+173/38,Matron's Knife
+175/27,Khimaira Jambiya
+200/64,Darksteel Jambiya
+200/65,Thug's Jambiya
+206/12,Vajra
+276/99,Vajra (99)
+206/14,Carnwenhan
+276/102,Carnwenhan (99)
+206/15,Terpsichore
+276/105,Terpsichore (99)
+211/3,Azoth
+219/46,Ermine's Tail
+227/41,Machismo
+245/97,Twashtar
+276/106,Twashtar (99)
+246/57,Auric Dagger
+262/15,Twilight Dagger
+265/8,Mantodea Harpe
+266/47,Lux Pugio
+266/86,Coruscanti
+269/55,Asteria
+280/28,Blustery Dagger
+281/70,Sandung
+290/23,Coalition Dirk
+292/16,Izhiikoh 
+308/69,Camaraderie Dagger 
+320/10,Ipetam
+325/88,Rhadamanthus
+327/84,Odium
+332/20,Nibiru knife
+345/30,Sangoma
+345/31,Aeneas
+354/81,Chicken Knife II 
+357/9,Gandring (su5)
+358/83,Aern Dagger
+358/121,Qutrub Dagger
+360/1,Kaja Knife
+361/8,Tauret
+362/87,Wind Knife
+363/16,Norgish Dagger
+363/17,Esikuva
+
+@Sword
+116/15,Colichemarde
+116/16,Small Sword
+116/17,Bilbo
+116/18,Junior Musketeer's Tuck
+116/19,Joyeuse
+116/20,Schlaeger
+116/21,Duel Rapier
+116/22,Degen
+116/23,Mythril Degen
+116/24,Epee
+116/25,Fleuret
+116/26,Schwert
+116/27,Royal Guard's Fleuret
+116/59,Spatha
+116/60,Gold Sword
+116/61,Longsword
+116/62,Knight's Sword
+116/63,Saber
+116/64,Rune Blade
+116/65,Sapara
+116/66,Scimitar
+116/67,Tulwar
+116/68,Hanger
+116/69,Ridill
+116/70,Darksteel Falchion
+116/71,Platinum Cutlass
+116/72,Falchion
+116/73,Cutlass
+116/74,Xiphos
+116/75,Brass Xiphos
+116/76,Gladius
+116/77,Darksteel Sword
+116/78,Bronze Sword
+116/79,Jagdplaute
+116/80,Iron Sword
+116/81,Mythril Sword
+116/82,Dainslaif
+116/83,Cermet Sword
+116/84,Anelace
+116/85,Katzbalger
+116/86,Broadsword
+116/87,Coral Sword
+116/88,Hrotti
+116/89,Bastard Sword
+116/90,Hunting Sword
+116/91,Espadon
+116/92,Nadrs
+116/93,Ancient Sword
+116/94,Kaiser Sword
+116/95,Dissector
+116/96,Holy Sword
+116/97,Gluttony Sword
+116/98,Wing Sword
+142/47,Excalibur
+276/93,Excalibur (99)
+150/117,Shotel
+164/39,Kilij
+165/6,Macuahuitl
+170/11,Darksteel Kilij
+171/3,Adaman Kilij
+171/118,Sanguine Sword
+175/28,Hauteclaire
+183/112,Cermet Kilij
+184/101,Hofud
+206/8,Unknown Sword
+206/9,Tizona
+276/104,Tizona (99)
+206/10,Murgleis
+276/98,Murgleis (99)
+206/13,Burtgang
+276/100,Burtgang (99)
+210/126,Fragarach
+211/103,Organics
+227/42,Concordia
+242/28,Almace
+276/107,Almace (99)
+246/58,Tyrfing
+263/110,Sagasinger
+266/109,Ephemeron
+279/97,Sanus Ensis
+279/98,Ark Saber
+279/99,Ark Sword
+290/24,Coalition Blade
+292/17,Buramenk'ah 
+308/70,Camaraderie Blade 
+320/11,Claidheamh Soluis
+325/89,Acclimator
+327/83,Excalipoor
+332/21,Nibiru blade
+334/117,Medeina kilij
+337/23,Brilliance
+337/25,Vampirism
+341/41,Fettering blade
+341/98,Reikiko
+345/32,Sequence
+352/9,Fermion sword
+353/100,Firetongue
+354/6,Onion Sword II
+354/107,Blizzard Brand
+355/24,Save the Queen II
+355/117,Kam'lanaut's Sword
+357/12,Crocea Mors (su5)
+357/31,Unused Sword (su5)
+358/82,Aern Sword
+360/2,Kaja Sword
+361/9,Naegling
+
+@Axe
+115/86,Bronze Axe
+115/87,Brass Axe
+115/88,Battleaxe
+115/89,Mythril Axe
+115/90,Bone Axe
+115/91,Tabarzin
+115/92,Darksteel Tabar
+115/93,Tabar
+115/94,Darksteel Axe
+115/95,Rune Axe
+115/96,Nadziak
+115/97,Darksteel Pick
+115/98,War Pick
+115/99,Mythril Pick
+115/100,Bone Pick
+115/101,Orcish Axe
+142/53,Guttler
+276/94,Guttler (99)
+145/77,Tomahawk
+171/116,Sirius Axe
+206/6,Aymur
+276/101,Aymur (99)
+210/127,Labrys
+245/98,Farsha
+276/108,Farsha (99)
+246/59,Glyph Axe
+265/6,Tonatiuh Axe
+279/100,Ark Tabar
+279/121,Aytanri
+281/72,Unknown Axe
+290/25,Coalition Axe 
+292/18,Kerehcatl 
+304/89,Hunahpu
+308/71,Camaraderie Axe 
+320/12,Kumbhakarna
+332/22,Nibiru tabar
+332/25,Blurred axe
+345/33,Tri-edge
+355/1,Demonic Axe
+357/8,Pangu (su5)
+357/122,Gramk's Axe
+358/84,Aern Axe
+360/3,Kaja Axe
+361/10,Dolichenus
+361/49,Ark Tabar
+
+@Katana
+116/100,Fudo
+116/101,Wakizashi
+116/102,Kodachi
+116/103,Sakurafubuki
+116/104,Kabutowari
+116/105,Ganko
+116/106,Kunai
+142/51,Kikoku
+276/95,Kikoku (99)
+152/19,Sai
+158/71,Hirenjaku
+171/117,Ryumon
+172/55,Hayabusa
+206/11,Nagi
+276/103,Nagi (99)
+211/1,Shusui
+211/105,Oninohocho
+247/45,Kannagi
+276/109,Kannagi (99)
+246/60,Hochomasamune
+279/101,Ikarigiri
+288/34,Uguisu
+304/88,Ichijintanto
+320/13,Izuna
+325/90,Achiuchikapu
+332/23,Mijin
+332/26,Kujaku
+345/34,Heishi Shorinken
+357/10,Fudo Masamune (su5)
+360/4,Kaja Katana
+361/11,Gokotai
+
+@Club
+115/85,Chocobo Wand
+115/102,Oak Cudgel
+115/103,Bone Cudgel
+115/104,Buzdygan
+115/105,Darksteel Mace
+115/106,Bronze Mace
+115/107,Platinum Mace
+115/108,Mace
+115/109,Mythril Mace
+115/110,Ash Club
+115/111,Chestnut Club
+115/112,Shellbuster
+115/113,Great Club
+115/114,Darksteel Maul
+115/115,Bronze Hammer
+115/116,Brass Hammer
+115/117,Warhammer
+115/118,Maul
+116/28,Scepter
+116/29,Darksteel Rod
+116/30,Bronze Rod
+116/31,Brass Rod
+116/32,Rod
+116/33,Mythril Rod
+116/34,Bone Rod
+116/35,Ebony Wand
+116/36,Yew Wand
+116/37,Maple Wand
+116/38,Mythic Wand
+116/39,Mistilteinn
+116/40,Rose Wand
+116/41,Chestnut Wand
+116/42,Willow Wand
+116/43,Caduceus
+116/44,Chocobo Wand (Unused)
+116/45,Chocobo Wand (Unused)
+116/46,Chocobo Wand (Unused)
+116/47,Chocobo Wand (Unused)
+116/48,Chocobo Wand (Unused)
+116/49,Chocobo Wand (Unused)
+116/50,Star Rod
+116/51,Asklepios
+116/52,Curse Wand
+116/53,Skirnir's Wand
+116/54,Earth Wand
+116/55,Imperial Wand
+116/56,Martial Wand
+116/57,Pilgrim's Wand
+116/58,Fey Wand
+116/99,Mjollnir
+276/96,Mjollnir (99)
+142/49,Rune Rod
+142/50,Trial Club
+149/90,Morgenstern
+150/118,Seveneyes
+159/104,Charm Wand
+160/125,Moogle Rod
+164/41,Jadagna
+170/39,Nomad Moogle Rod
+183/111,Brass Jadagna
+206/7,Yagrush
+276/97,Yagrush (99)
+211/0,Antares
+211/104,Flanged Mace
+218/35,Dream Bell
+220/37,Club Hammer
+221/5,Lady Bell
+242/58,Gambanteinn
+276/110,Gambanteinn (99)
+246/61,Owleyes
+265/7,Tefnut Wand
+266/61,Rounsey Wand
+267/54,Maestro's Baton
+267/55,Melomane Mallet
+280/71,Kitty Rod
+281/71,Solstice
+286/68,Shell Scepter
+286/69,Gobbie Gavel
+290/26,Coalition Rod 
+304/90,Tamaxchi
+308/72,Camaraderie Wand 
+313/113,Red Spriggan Club
+313/114,Purple Spriggan Club
+317/22,Idris
+358/16,Idris (119)
+320/14,Nehushtan
+317/73,Kyuka uchiwa
+325/87,Leafkin bopper
+326/47,Heartbeater
+332/24,Nibiru cudgel
+332/27,Blurred rod
+337/24,Divinity
+337/26,Rubicundity
+337/27,Heartstopper
+345/35,Tishtrya
+352/82,Seika Uchiwa
+353/16,Jingly Rod
+357/11,Asclepius (su5)
+357/86,Soulflayer's Wand
+358/122,Floral Hagoita
+360/5,Kaja Rod
+361/12,Maxentius
+361/113,Cath Palug Hammer
+362/88,Daybreak
+363/48,Burrower's Wand

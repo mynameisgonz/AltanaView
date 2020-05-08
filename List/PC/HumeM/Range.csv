@@ -1,0 +1,125 @@
+@None
+31/82,None
+
+@Throwing
+31/83,Flame Boomerang
+31/84,Boomerang
+31/85,Rising Sun
+31/86,Chakram
+31/87,Moonring Blade
+31/88,Grenade
+31/89,Juji Shuriken
+150/6,Fuma Shuriken
+148/107,Throwing Tomahawk
+148/108,Angon
+324/88, Leafkin grenade
+
+@Archery
+31/90,Gendawa
+31/91,Loxley Bow
+31/92,War Bow
+31/93,Great Bow
+31/94,Battle Bow
+31/95,Power Bow
+31/96,Longbow
+31/97,Rapid Bow
+31/98,Unknown Bow 1
+31/99,Self Bow
+31/100,Kaman
+31/101,Unknown Bow 2
+31/102,Wrapped Bow
+31/103,Freesword's Bow
+31/104,Expunger
+31/105,Speed Bow
+31/106,Hunting Bow
+31/107,Composite Bow
+31/108,Unknown Bow 3
+31/109,Shortbow
+31/110,Rune Bow
+120/9,Shigeto Bow
+143/110,Yoichinoyumi
+272/127,Yoichinoyumi (99)
+166/119,Lamian Kaman
+247/9,Gandiva
+273/3,Gandiva (99)
+245/51,Siege Bow
+264/77,Percept Bow
+282/102,Unknown Bow 4
+292/100, Coalition Bow
+307/99, Camaraderie bow
+307/100, Ajjub bow
+318/124, Phaosphaelia
+328/8, Nibiru bow
+328/11, Blurred bow
+340/124, Venery bow
+342/97, Fail-Not
+
+@Marksmanship
+31/111,Heavy Crossbow
+31/112,Crossbow
+31/113,Arbalest
+31/114,Zamburak
+31/115,Light Crossbow
+31/116,Negoroshiki
+31/117,Hellfire
+31/118,Hakenbuechse
+31/119,Bandit's Gun
+31/120,Repeating Crossbow
+31/121,Power Crossbow
+31/122,Culverin
+136/117,Coffinmaker
+143/109,Annihilator
+272/126,Annihilator (99)
+163/101,Hexagun
+169/110,Darksteel Hexagun
+183/70,Unknown Hexagun
+199/119,Silver Cassandra
+203/93,Gastraphetes
+273/1,Gastraphetes (99)
+203/92,Death Penalty
+273/2,Death Penalty (99)
+210/10,Unknown Gun
+241/115,Armageddon
+273/4,Armageddon (99)
+303/40,	Forefront Blowgun
+313/75, Decazoom Mk-XI
+318/125, Doomsday
+328/9, Nibiru gun
+328/12, Blurred crossbow
+342/98, Fomalhaut
+
+@Wind Instr.
+31/123,Traversiere
+31/124,Flute
+31/125,Piccolo
+31/126,Faerie Piccolo
+31/127,Horn
+32/0,Cornette
+32/1,Crumhorn
+32/2,Gemshorn
+136/118,Gjallarhorn
+273/0,Gjallarhorn (99)
+280/93,Unknown Horn
+303/39,	Forefront Flute
+318/126, Linos
+342/99, Marsyas
+
+@String Instr.
+32/3,Ebony Harp
+32/4,Unknown Harp
+32/5,Lamia Harp
+32/6,Maple Harp
+32/7,Nursemaid's Harp
+32/8,Mythic Harp
+32/9,Harp
+32/10,Rose Harp
+32/11,Sorrowful Harp
+32/12,Cythara Anglica
+261/69,Daurdabla
+273/5,Daurdabla (99)
+328/10, Nibiru harp
+328/13, Blurred harp
+
+@Geomancer
+289/74, Matre Bell
+313/76, Filiae bell

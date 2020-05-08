@@ -1,0 +1,298 @@
+@Battle
+36/117-124;98/86,Battle
+110/19-22,Dual Wield (Sub)
+110/31-34,Dual Wield (Main)
+@Emote
+37/13-17;123/24;137/38-40,Emote
+259/85;260/6-14,Job Emotes
+@General
+37/18,Logging
+90/20,Chocobo
+90/21,Fishing
+123/22,Mining
+123/23,Harvesting
+143/50;143/69,Goldfish Scooping
+198/6,Dancing
+223/87-89,Bell Ringing
+@Ability
+78/110-111,Steal
+78/112-113,Mug
+78/114;95/14-16,Bash
+101/85-99,Jump
+168/32,Tomahawk
+168/33,Angon
+@Hand-to-Hand
+78/45,Combo
+78/46,Shoulder Tackle
+78/47,One Inch Punch
+78/48,Backhand Blow
+78/49,Raging Fists
+78/50,Spinning Attack
+78/51,Howling Fist
+101/49,Dragon Kick
+101/50,Asuran Fists
+139/116,Final Heaven
+206/46,Ascetic's Fury
+207/102,Stinging Pummel
+242/91,Tornado Kick
+255/62,Victory Smite
+272/38,Shijin Spiral
+@Dagger
+78/52,Wasp Sting
+78/53,Viper Bite
+78/54,Shadowstitch
+78/55,Gust Slash
+78/56,Cyclone
+78/57,Energy Steal
+78/58,Energy Drain
+78/59,Dancing Edge
+101/51,Shark Bite
+101/52,Evisceration
+139/117,Mercy Stroke
+207/103,Mandalic Stab
+206/47,Mordant Rime
+207/104,Pyrrhic Kleos
+242/92,Aeolian Edge
+257/90,Rudra's Storm
+268/78,Exenterator
+@Sword
+78/36,Fast Blade
+78/37,Burning Blade
+78/38,Red Lotus Blade
+78/41,Flat Blade
+78/39,Shining Blade
+78/40,Seraph Blade
+78/42,Circle Blade
+78/43,Spirits Within
+78/44,Vorpal Blade
+101/47,Swift Blade
+101/48,Savage Blade
+139/115,Knights of Round
+207/100,Death Blossom
+207/101,Atonement
+206/45,Expiacion
+240/9,Glory Slash
+240/10,Uriel Blade
+244/76,Sanguine Blade
+255/66,Chant du Cygne
+268/77,Requiescat
+@Club
+78/74,Shining Strike
+78/75,Seraph Strike
+78/76,Brainshaker
+78/77,Starlight
+78/78,Moonlight
+78/79,Skullbreaker
+78/80,True Strike
+78/81,Judgment
+101/57,Hexa Strike
+101/58,Black Halo
+139/120,Randgrith
+206/49,Mystic Boon
+242/94,Flash Nova
+257/87,Dagan
+269/74,Realmrazer
+@Axe
+78/60,Raging Axe
+78/61,Smash Axe
+78/62,Gale Axe
+78/63,Avalanche Axe
+78/64,Spinning Axe
+78/65,Rampage
+78/66,Calamity
+101/53,Mistral Axe
+101/54,Decimation
+139/118,Onslaught
+206/48,Primal Rend
+244/73,Bora Axe
+255/63,Cloudsplitter
+269/99,Ruinator
+@Katana
+101/67,Blade: Rin
+101/68,Blade: Retsu
+101/69,Blade: Teki
+101/70,Blade: To
+101/71,Blade: Chi
+101/72,Blade: Ei
+101/73,Blade: Jin
+101/74,Blade: Ten
+101/75,Blade: Ku
+139/125,Blade: Metsu
+207/111,Blade: Kamu
+242/97,Blade: Yu
+256/106,Blade: Hi
+270/119,Blade: Shun
+@G. Sword
+78/89,Hard Slash
+78/90,Power Slash
+78/91,Frostbite
+78/92,Freezebite
+78/93,Shockwave
+78/94,Crescent Moon
+78/95,Sickle Moon
+101/61,Spinning Slash
+101/62,Ground Strike
+139/122,Scourge
+242/96,Herculean Slash
+255/64,Torcleaver
+270/13,Resolution
+@Staff
+78/103,Heavy Swing
+78/104,Rock Crusher
+78/105,Earth Crusher
+78/106,Starburst
+78/107,Sunburst
+78/108,Shell Crusher
+78/109,Full Swing
+101/65,Spirit Taker
+101/66,Retribution
+139/124,Gate of Tartarus
+207/108,Vidohunir
+207/109,Garland of Bliss
+207/110,Omniscience
+240/8,Tartarus Torpor
+244/77,Cataclysm
+257/89,Myrkr
+270/14,Shattersoul
+@G. Axe
+78/82,Shield Break
+78/83,Iron Tempest
+78/84,Sturmwind
+78/85,Armor Break
+78/86,Keen Edge
+78/87,Weapon Break
+78/88,Raging Rush
+101/59,Full Break
+101/60,Steel Cyclone
+139/121,Metatron Torment
+207/106,King's Justice
+242/95,Fell Cleave
+257/88,Ukko's Fury
+272/39,Upheaval
+@G. Katana
+101/76,Tachi: Enpi
+101/77,Tachi: Hobaku
+101/78,Tachi: Goten
+101/79,Tachi: Kagero
+101/80,Tachi: Jinpu
+101/81,Tachi: Koki
+101/82,Tachi: Yukikaze
+101/83,Tachi: Gekko
+101/84,Tachi: Kasha
+139/126,Tachi Kaiten
+207/112,Tachi: Rana
+244/75,Tachi: Ageha
+255/65,Tachi: Fudo
+268/76,Tachi: Shoha
+@Scythe
+78/67,Slice
+78/68,Dark Harvest
+78/69,Shadow of Death
+78/70,Nightmare Scythe
+78/71,Spinning Scythe
+78/72,Vorpal Scythe
+78/73,Guillotine
+101/55,Cross Reaper
+101/56,Spiral Hell
+139/119,Catastrophe
+207/105,Insurgency
+242/93,Infernal Scythe
+256/104,Quietus
+268/74,Entropy
+@Polearm
+78/96,Double Thrust
+78/97,Thunder Thrust
+78/98,Raiden Thrust
+78/99,Leg Sweep
+78/100,Penta Thrust
+78/101,Vorpal Thrust
+78/102,Skewer
+101/63,Wheeling Thrust
+101/64,Impulse Drive
+139/123,Geirskogul
+207/107,Drakesbane
+244/74,Sonic Thrust
+256/105,Camlann's Torment
+268/75,Stardiver
+@Archery
+78/115,Eagle Eye Shot
+78/117,Shadowbind
+76/113,Flaming Arrow
+76/114,Piercing Arrow
+76/115,Dulling Arrow
+76/116,Unknown WS
+76/117,Sidewinder
+101/100,Blast Arrow
+101/101,Arching Arrow
+101/102,Empyreal Arrow
+139/127,Namas Arrow
+245/37,Refulgent Arrow
+256/107,Jishnu's Radiance
+269/100,Apex Arrow
+@Marksmanship
+78/116,Eagle Eye Shot
+78/118,Shadowbind
+76/118,Hot Shot
+76/119,Split Shot
+76/120,Sniper Shot
+76/121,Unknown WS
+76/122,Slug Shot
+101/103,Blast Shot
+101/104,Heavy Shot
+101/105,Detonator
+140/0,Coronach
+207/113,Trueflight
+207/114,Leaden Salute
+242/98,Numbing Shot
+256/108,Wildfire
+270/120,Last Stand
+@Mannequin
+143/14,Mannequin
+153/102-103,Mannequin
+@Others
+70/93-98,mot_
+71/100,def_
+72/77-81;86,mot_
+78/35,dumm
+169/54-56,mot_
+170/68-70;74,mot_
+171/21-22;25-26;33-34,mot_
+173/51-53,mot_
+175/72-74,mot_
+180/81-85,mot_
+181/32-36,mot_
+182/41-45;53-55,mot_
+191/3,mot_
+201/8-10;73,mot_
+209/115-119,mot_
+212/80-82,mot_
+221/29-31,mot_
+3/4/79-82,mot_
+6/0/31;35-36;42-44,mot_
+@NPC WS
+204/21,Unknown WS
+@Dancer
+192/2,Drain Samba
+192/3,Drain Samba II
+192/4,Drain Samba III
+192/5,Aspir Samba
+192/6,Aspir Samba II
+192/7,Haste Samba
+192/8,Curing Waltz
+192/9,Curing Waltz II
+192/10,Curing Waltz III
+192/11,Curing Waltz IV
+261/123,Curing Waltz V
+192/12,Healing Waltz
+192/13,Divine Waltz
+246/116,Divine Waltz II
+192/14,Spectral Jig
+192/15,Chocobo Jig
+192/16-24,Steps
+192/25-33,Flourishes
+268/38,New samba?
+@Unknown
+296/21-25, Wards?
+296/26-34, Runefencer animation type 1
+296/35-43, Runefencer animation type 2
+296/44-52, Runefencer animation type 3
