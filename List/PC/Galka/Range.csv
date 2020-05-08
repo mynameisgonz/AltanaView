@@ -13,6 +13,7 @@
 148/119,Throwing Tomahawk
 148/120,Angon
 324/94, Leafkin grenade
+362/98,Grudge
 
 @Archery
 60/61,Gendawa
@@ -53,8 +54,13 @@
 328/59, Blurred bow
 341/8, Venery bow
 342/121, Fail-Not
+356/10,Bow (su5)
+357/43,Mizukage-no-yumi
+359/17,Artemis Bow
+359/18,Unused Ambu Bow
+360/25,Unused Ambu Bow
 
-@Marksmanship
+@Gun
 60/82,Heavy Crossbow
 60/83,Crossbow
 60/84,Arbalest
@@ -87,8 +93,10 @@
 328/57, Nibiru gun
 328/60, Blurred crossbow
 342/122, Fomalhaut
+356/11,Sharanga (su5)
+358/24,Troll Gun
 
-@Wind Instr.
+@Wind
 60/94,Traversiere
 60/95,Flute
 60/96,Piccolo
@@ -103,8 +111,9 @@
 303/57, Forefront Flute
 319/22, Linos
 342/123, Marsyas
+361/68,Marvelous Cheer
 
-@String Instr.
+@String
 60/102,Ebony Harp
 60/103,Unknown Harp
 60/104,Lamia Harp
@@ -120,6 +129,6 @@
 328/58, Nibiru harp
 328/61, Blurred harp
 
-@Geomancer
+@Bell
 289/80, Matre Bell
 313/88, Filiae bell
